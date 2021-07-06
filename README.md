@@ -1,21 +1,5 @@
-### Hi there, I'm Computer Science Student, Focused on CyberSecurity 🌼 
+### Hi there, I'm Abubakar Abubakar Yusif
+### A Computer Science Student and CyberSecurity enthusiastic 🌼 
 
-![nblhuda's github stats](https://github-readme-stats.vercel.app/api?username=blackdracula18&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true)   
+![blackdracula18's github stats](https://github-readme-stats.vercel.app/api?username=blackdracula18&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdracula18&layout=compact&theme=dracula)
-
-
-<!--
-**nblhuda/nblhuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Laravel
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
